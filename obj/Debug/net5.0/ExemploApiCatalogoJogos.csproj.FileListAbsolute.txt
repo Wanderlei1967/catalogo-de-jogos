@@ -1,0 +1,7 @@
+C:\Parceiros\bootcamps\take-blip\Projeto-Catalogo-de-jogos\ApiCatalogoJogos-master\ExemploApiCatalogoJogos\obj\Debug\net5.0\ExemploApiCatalogoJogos.csprojAssemblyReference.cache
+C:\Parceiros\bootcamps\take-blip\Projeto-Catalogo-de-jogos\ApiCatalogoJogos-master\ExemploApiCatalogoJogos\obj\Debug\net5.0\ExemploApiCatalogoJogos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Parceiros\bootcamps\take-blip\Projeto-Catalogo-de-jogos\ApiCatalogoJogos-master\ExemploApiCatalogoJogos\obj\Debug\net5.0\ExemploApiCatalogoJogos.AssemblyInfoInputs.cache
+C:\Parceiros\bootcamps\take-blip\Projeto-Catalogo-de-jogos\ApiCatalogoJogos-master\ExemploApiCatalogoJogos\obj\Debug\net5.0\ExemploApiCatalogoJogos.AssemblyInfo.cs
+C:\Parceiros\bootcamps\take-blip\Projeto-Catalogo-de-jogos\ApiCatalogoJogos-master\ExemploApiCatalogoJogos\obj\Debug\net5.0\ExemploApiCatalogoJogos.csproj.CoreCompileInputs.cache
+C:\Parceiros\bootcamps\take-blip\Projeto-Catalogo-de-jogos\ApiCatalogoJogos-master\ExemploApiCatalogoJogos\obj\Debug\net5.0\ExemploApiCatalogoJogos.MvcApplicationPartsAssemblyInfo.cs
+C:\Parceiros\bootcamps\take-blip\Projeto-Catalogo-de-jogos\ApiCatalogoJogos-master\ExemploApiCatalogoJogos\obj\Debug\net5.0\ExemploApiCatalogoJogos.MvcApplicationPartsAssemblyInfo.cache
